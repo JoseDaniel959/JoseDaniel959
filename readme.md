@@ -1,7 +1,7 @@
 
 # José Daniel Bustamante Arango 👩‍💻
 
-Welcome to my github profile. I'm Jose Daniel Bustamante Arango and I'm an informatic engineer with interest in data science. Here you can explore some projects that i've worked.
+Welcome to my github profile. I'm Jose Daniel Bustamante Arango and I'm an informatic engineer with interest in data science. Here you can explore some projects that i've worked on.
 
 ## Skills 💡
 
