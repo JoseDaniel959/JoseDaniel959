@@ -11,4 +11,4 @@ Welcome to my github profile. I'm Jose Daniel Bustamante Arango and I'm an infor
 - Machine learning algorithms
 - Scrum methodology 
 ## Contact 📧
-Here is my email: Jobustamantea@unal.edu.co
+Here is my email: danieldaniel98717@gmail.com
