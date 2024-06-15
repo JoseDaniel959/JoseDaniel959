@@ -6,7 +6,7 @@ Welcome to my github profile. I'm Jose Daniel Bustamante Arango and I'm an infor
 ## Skills 💡
 
 - Python, Java, SQL.
--  Knowledge in Python libraries as Pandas, scikitlearn, Numpy, OpenCV, Tensor flow
+-  Knowledge in Python libraries as Pandas, scikitlearn, Numpy, OpenCV.
 - Stadistics 
 - Machine learning algorithms
 - Scrum methodology 
