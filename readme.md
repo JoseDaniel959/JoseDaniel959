@@ -7,7 +7,7 @@ Welcome to my github profile. I'm Jose Daniel Bustamante Arango and I'm an infor
 
 - Python, JavaScript, CSS, Java, Node Js.
 - Relational and not-relational databases systems.
-- RestFul API.
+- RESTful API.
 - React.
 - Knowledge in Python libraries as Pandas, scikitlearn, Numpy.
 - Statistics 
